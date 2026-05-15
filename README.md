@@ -58,7 +58,7 @@ The objective of this project is to create a simple task manager using Python an
 ## 1. Download or Clone the Repository
 
 ```bash
-git clone YOUR_REPOSITORY_LINK
+git clone https://github.com/tmthangaraj1980-AIML/synent_task3_todo_list.git
 ```
 
 OR simply download the ZIP file from GitHub and extract it.
@@ -132,7 +132,7 @@ This project was completed as part of the Synent Technologies Python Development
 
 # 👩‍💻 Author
 
-Manuela Ananthi Thangaraj T
+Thangaraj T
 
 ---
 
@@ -143,7 +143,7 @@ Manuela Ananthi Thangaraj T
 Example:
 
 ```bash
-git clone https://github.com/username/todo-list-cli.git
+git clone https://github.com/tmthangaraj1980-AIML/synent_task3_todo_list.git
 ```
 
 This downloads the full project folder from GitHub to your local system.
